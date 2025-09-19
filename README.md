@@ -5,7 +5,6 @@
 * A web-based Snake game built with React, TypeScript, and SCSS
 * The game challenges you to control a snake that grows longer as it eats food, while avoiding collisions with walls and itself
 * Enjoy smooth animations, responsive gameplay, and a stylish interface inspired by modern design trends
-* A modern twist on the classic Snake game with an enhanced UI similar to our Tic-Tac-Toe project
 
 ### Technologies used
 
